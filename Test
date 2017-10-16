@@ -8,11 +8,11 @@
       <a href="index.html">10K Kois</a>
       <a href="aboutme.html">Diamond APs</a>
     </nav>
-    <font face="arial,helvetica" , size=6>Auguststrasse</font>
-    <h4>by PAUL ORBIT FRIEDRICH</h4>
+    <font face="arial", size=6>Auguststrasse</font>
+    <font face="arial", size=4>by PAUL ORBIT FRIEDRICH</font>
     <div id="introduction">
-      <h3>Philosophy</h3>
-      <p>Less is more.</p>
+      <font face="arial", size=3>Philosophy</font>
+      <font face="arial", size=2>Less is more.</font>
       <a href="https://en.wikipedia.org/wiki/Bauhaus" target="_blank">Learn More & Educate Yourself.</a>
     </div>
   </body>
