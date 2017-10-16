@@ -9,11 +9,11 @@
       <a href="aboutme.html">Diamond APs</a>
     </nav>
     <h1>Auguststrasse</h1> <br />
-    <h3> by PAUL ORBIT FRIEDRICH </h3>
+    <h4>by PAUL ORBIT FRIEDRICH</h4>
     <div id="introduction">
-      <h2>Philosophy</h2>
+      <h3>Philosophy</h3>
       <p>Less is more.</p>
-      <a href="https://en.wikipedia.org/wiki/Dieter_Rahms" target="_blank">Learn More, Educate Yourself.</a>
+      <a href="https://en.wikipedia.org/wiki/Bauhaus" target="_blank">Learn More & Educate Yourself.</a>
     </div>
   </body>
 </html>
