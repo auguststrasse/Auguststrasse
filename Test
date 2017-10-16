@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Auguststrasse</title>
+  </head>
+  <body>
+    <nav>
+      <a href="index.html">10K Kois</a>
+      <a href="aboutme.html">Diamond APs</a>
+    </nav>
+    <h1>Auguststrasse</h1> <br />
+    <h3> by PAUL ORBIT FRIEDRICH >/h3>
+    <div id="introduction">
+      <h2>Philosophy</h2>
+      <p>Less is more.</p>
+      <a href="https://en.wikipedia.org/wiki/Dieter_Rahms" target="_blank">Learn More, Educate Yourself.</a>
+    </div>
+  </body>
+</html>
+
