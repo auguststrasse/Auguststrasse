@@ -3,11 +3,9 @@
 <title>
   <head> Auguststrasse </head>
 </title>
- html { font-size:100%; }
-
 <body>
-  <h1> Auguststrasse </h1>
-  <h1> by PAUL ORBIT FRIEDRICH </h1>
+  <font size="+1"> Auguststrasse </font>
+  <font size="-1"> by PAUL ORBIT FRIEDRICH </font>
   <nav>
     <a href="10kkois.html">10K Kois</a>
     <a href="diamondaps.html">Diamond APs</a>
