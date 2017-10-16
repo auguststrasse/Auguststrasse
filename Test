@@ -8,7 +8,7 @@
       <a href="index.html">10K Kois</a>
       <a href="aboutme.html">Diamond APs</a>
     </nav>
-    <h1>Auguststrasse</h1> <br />
+    <font face="arial,helvetica" , size=6>Auguststrasse</font>
     <h4>by PAUL ORBIT FRIEDRICH</h4>
     <div id="introduction">
       <h3>Philosophy</h3>
