@@ -3,6 +3,8 @@
 <title>
   <head> Auguststrasse </head>
 </title>
+ html { font-size:100%; }
+
 <body>
   <h1> Auguststrasse </h1>
   <h1> by PAUL ORBIT FRIEDRICH </h1>
