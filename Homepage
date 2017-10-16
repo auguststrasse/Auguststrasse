@@ -5,9 +5,9 @@
   </head>
   <body>
     <h1> Auguststrasse </h1> <br /> <h3> by PAUL ORBIT FRIEDRICH </h3>
-    <nav>
-      <a href="10kkois.html">10K Kois</a>
-      <a href="diamondaps.html">Diamond APs</a>
-    </nav>
+  <nav>
+    <a href="10kkois.html">10K Kois</a> <br />
+    <a href="diamondaps.html">Diamond APs</a>
+  </nav>
   </body>
 </html>
