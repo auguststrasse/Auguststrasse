@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-  <title>Gifts from Auguststrasse</title>
+  <title>Gifts from Auguststr.</title>
   </head>
   <style>
   body {
@@ -34,5 +34,7 @@
 
   </style>
   <body>
+  <font face="arial", size=36><b>Gifts</b></font>
+  <font face="arial", size=36><i>from Auguststrasse</i></font>
   </body>
 </html>
