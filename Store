@@ -35,6 +35,6 @@
   </style>
   <body>
   <font face="arial", size=36><b>Gifts</b></font>
-  <font face="arial", size=36><i>from Auguststrasse</i></font>
+  <font face="arial", size=2><i>from Auguststrasse</i></font>
   </body>
 </html>
