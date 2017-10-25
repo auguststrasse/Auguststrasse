@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Gifts from Auguststr.</title>
+  </head>
+  <style>
+  body {
+      background-color: #ffffff;
+  }
+  
+  a:link {
+      color: #000000; 
+      <!--background-color: ;-->
+      text-decoration: <u>;
+  }
+
+  a:visited {
+      color: #000000;
+      <!--background-color: transparent;-->
+      text-decoration: <u>;
+  }
+
+  a:hover {
+      color: #FF8000;
+      <!--background-color: transparent;-->
+      <!--text-decoration: none;-->
+  }
+
+  a:active {
+      color: #000000;
+      <!--background-color: transparent;-->
+      text-decoration: <u>;
+  }
+
+  </style>
+  <body>
+  <center><font face="arial", size=36><b>Gifts</b></font></center><br />
+  <center><font face="arial", size=2><i>from AUGUSTSTRASSE</i></font></center>
+  </body>
+</html>
